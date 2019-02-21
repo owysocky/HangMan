@@ -1,0 +1,8 @@
+/Users/Guest/Desktop/HangMan.Solution/Game/bin/Debug/netcoreapp1.1/Game.deps.json
+/Users/Guest/Desktop/HangMan.Solution/Game/bin/Debug/netcoreapp1.1/Game.runtimeconfig.json
+/Users/Guest/Desktop/HangMan.Solution/Game/bin/Debug/netcoreapp1.1/Game.runtimeconfig.dev.json
+/Users/Guest/Desktop/HangMan.Solution/Game/obj/Debug/netcoreapp1.1/Game.AssemblyInfo.cs
+/Users/Guest/Desktop/HangMan.Solution/Game/bin/Debug/netcoreapp1.1/Game.dll
+/Users/Guest/Desktop/HangMan.Solution/Game/bin/Debug/netcoreapp1.1/Game.pdb
+/Users/Guest/Desktop/HangMan.Solution/Game/obj/Debug/netcoreapp1.1/Game.dll
+/Users/Guest/Desktop/HangMan.Solution/Game/obj/Debug/netcoreapp1.1/Game.pdb
